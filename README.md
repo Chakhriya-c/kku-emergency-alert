@@ -3,10 +3,16 @@ This project developed for EN002101 ENTREPRENEURIAL SPIRIT INCUBATION, Khon Kaen
 
 Emergency Alert App integrate with LineOA 
 
+# Tech Stack 
+- Frontend : Flutter
+- Backend : Javascript, Node.js, Python
+- Database : MongoDB
+
 # To do list
 - [x] User Interface (UI) Mockup
+- [ ] Spam fliter using Machine Learning Classification (On progress)
 - [ ] User Interface
-- [ ] Database
+- [ ] Database (On progress)
 - [ ] API
 - [ ] Data Pipeline
 - [ ] Line Integration
