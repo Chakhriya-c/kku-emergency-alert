@@ -16,6 +16,7 @@ Emergency Alert App integrate with LineOA
 - [ ] API
 - [ ] Data Pipeline
 - [ ] Line Integration
+- [ ] Software Test (Data Sending Test & Load Test)
 
 # Doing List
 Date : 9/18/2023 - 9/20/2023
