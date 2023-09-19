@@ -12,7 +12,7 @@ Emergency Alert App integrate with LineOA
 - [x] User Interface (UI) Mockup
 - [ ] Spam fliter using Machine Learning Classification (On progress)
 - [ ] User Interface
-- [ ] Database (On progress)
+- [x] Database
 - [ ] API
 - [ ] Data Pipeline
 - [ ] Line Integration
