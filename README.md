@@ -18,6 +18,6 @@ Emergency Alert App integrate with LineOA
 - [ ] Line Integration
 
 # Doing List
-Date : 9/20/2023
+Date : 9/18/2023 - 9/20/2023
 - Create UI Draft using Flutter of 4/10 pages (Including Form report page)
 - Create Database & Setup on MongoDB Atlas
