@@ -17,3 +17,6 @@ Emergency Alert App integrate with LineOA
 - [ ] Data Pipeline
 - [ ] Line Integration
 
+# Doing List
+- Create UI Draft using Flutter of 4/9 pages (Including Form report page)
+- Create Database & Setup on MongoDB Atlas
