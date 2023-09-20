@@ -15,6 +15,7 @@ Emergency Alert App integrate with LineOA
 - [x] Database
 - [ ] API
 - [ ] Data Pipeline
+- [x] Crate LineOA
 - [ ] Line Integration
 - [ ] Software Test (Data Sending Test & Load Test)
 
